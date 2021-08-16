@@ -11,5 +11,5 @@
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--:|:--:|:--:|:--:|
-|剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link（todo for zys）](./Problems/lcof-036/README.md)|
+|剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link](./Problems/lcof-036/README.md)|
 
