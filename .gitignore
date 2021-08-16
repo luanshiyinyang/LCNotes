@@ -3,3 +3,5 @@
 *.pdf
 .idea/
 __pycache__/
+.vs/
+.vscode/
