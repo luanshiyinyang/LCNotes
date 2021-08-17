@@ -33,11 +33,12 @@ class Solution:
 其实如果用python写的话，可以代用set（无序不重复），亦或者利用python自带的sort函数进行排序，然后查看相邻数字是否有重复。
 
 上面代码的执行结果为：
-![](1.png)
+
+![](https://i.loli.net/2021/08/17/278rX4Iv39Eafox.png)
 
 后来又想了个方法，执行结果是这样：
 
-![](2.png)
+![](https://i.loli.net/2021/08/17/xcgfIsb9LthG7Bj.png)
 
 思路是这样的：开始遍历数组，若下表`i`的值`nums[i]`与`i`不相同，就将位置`i`的数字放到与值相等的下标的位置`nums[nums[i]]`，一直到`i`与`nums[i]`相等，再遍历`i+1`位置。当在上述过程中遇到，将`nums[i]`放到下标为`nums[i]`的地方时，`nums[i]`和`nums[nums[i]]`相等，就说明找到了重复的数字，输出即可。
 
