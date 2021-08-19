@@ -41,12 +41,7 @@ $$
 
 根据本体的`dp`定义，最优解其实是`dp`数组的最大值。
 
-**复杂度优化**
-
-由于`dp[i]`只与`dp[i-1]`和`nums[i]`有关系，因此可以将原数组`nums`用作`dp`列表，也就是直接在`nums`上修改即可。因此可以省去`dp`列表使用的额外空间，因此空间复杂度从$O(N)$降至$O(1)$。而时间复杂度方面，线性遍历`nums`是必须的，因此为$O(N)$。
-
-
-原始版和优化版完整代码如下，也可见[solve.py](./solve.py)。
+完整代码如下，也可见[solve.py](./solve.py)。
 
 ```python
 class Solution:
@@ -58,6 +53,11 @@ class Solution:
         return max(dp)
 ```
 
+## 优化思路
+
+由于`dp[i]`只与`dp[i-1]`和`nums[i]`有关系，因此可以将原数组`nums`用作`dp`列表，也就是直接在`nums`上修改即可。因此可以省去`dp`列表使用的额外空间，因此空间复杂度从$O(N)$降至$O(1)$。而时间复杂度方面，线性遍历`nums`是必须的，因此为$O(N)$。
+
+优化版完整代码如下，也可见[solve.py](./solve.py)。
 ```python
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
