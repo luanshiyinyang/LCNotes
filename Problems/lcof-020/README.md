@@ -48,7 +48,7 @@
 class Solution:
     def isNumber(self, s: str) -> bool:
         s = s.strip()  # 去除首尾空格
-        dot, digit, e_E = False, False, False
+        dot, digit, e_E = False, False, False  # dot和e_E表示是否出现过小数点和e/E，而digit表示是否出现过数字并且最终决定该字符串是否合法
 
         for i, char in enumerate(s):
             if char in ('+', '-'):
