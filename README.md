@@ -6,6 +6,7 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|数据结构-链表|[link](./Problems/0021/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|数据结构-链表|[link](./Problems/0206/README.md)|
+|410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|算法-动态规划|[link todo](./Problems/0410/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|算法-动态规划|[link](./Problems/0787/README.md)|
 
 下表则为LeetCode中国版额外题库，如剑指Offer系列。
@@ -17,4 +18,10 @@
 |剑指Offer 20|[link](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|表示数值的字符串|Medium|数据结构-字符串|[link](./Problems/lcof-020/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|算法-动态规划|[link](./Problems/lcof-042/README.md)|
+
+以下为不属于上述题库的其他典型题。
+
+|题目ID|题目全名|题目类型|题解(<mark>点击下方</mark>)|
+|:---:|:--:|:--:|:--:|
+|Other 01|子数组分割最大得分|数据结构-数组|[link todo](./Problems/other-001/README.md)|
 
