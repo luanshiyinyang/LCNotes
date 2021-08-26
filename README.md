@@ -19,9 +19,9 @@
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|算法-动态规划|[link](./Problems/lcof-042/README.md)|
 
-以下为不属于上述题库的其他典型题。
+以下为不属于上述题库的其他典型题，这部分有的题目来自面试原题，不提供原题链接。
 
-|题目ID|题目全名|题目类型|题解(<mark>点击下方</mark>)|
-|:---:|:--:|:--:|:--:|
-|Other 01|子数组分割最大得分|数据结构-数组|[link todo](./Problems/other-001/README.md)|
+|题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
+|:---:|:--:|:--:|:--:|:--:|:--:|
+|Other 01|link|子数组分割最大得分|Hard|数据结构-数组|[link todo](./Problems/other-001/README.md)|
 
