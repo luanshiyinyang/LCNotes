@@ -1,4 +1,4 @@
-> 本仓库为本人和小伙伴的面试准备刷题库（**用于查阅的资料**），题目均来自LeetCode（英文版），所选题来自面试常见题目，包含题解，目前由我和[maple-zys](https://github.com/maple-zys)维护，根目录的`Problems`为题解库文件夹，每道题以题目id为文件夹，其中包含题目说明和题解描述的`markdown`文件（该文件按照二级标题统一格式）和一个对应的题解源码的`py`文件。
+> 本仓库为本人和小伙伴的面试准备刷题库（**用于查阅的资料**），题目均来自LeetCode（英文版）和面试常见题目，本仓库包含题解，目前由我和[maple-zys](https://github.com/maple-zys)维护，根目录的`Problems`为题解库文件夹，每道题以题目id为文件夹，其中包含题目说明和题解描述的`markdown`文件（该文件按照二级标题统一格式）和一个对应的题解源码的`py`文件。
 
 下表为LeetCode美国版原始题库。
 
@@ -6,7 +6,7 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|数据结构-链表|[link](./Problems/0021/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|数据结构-链表|[link](./Problems/0206/README.md)|
-|410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|算法-动态规划|[link todo](./Problems/0410/README.md)|
+|410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数据结构-数组|[link](./Problems/0410/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|算法-动态规划|[link](./Problems/0787/README.md)|
 
 下表则为LeetCode中国版额外题库，如剑指Offer系列。

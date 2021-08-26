@@ -25,12 +25,81 @@
 
 ## 题解思路
 
-**本题非常典型，是LeetCode上很多题的原型，务必要理解明白。** “将数组划分为k段子数组，求最......”是典型的**数组分割问题**的最优解求解，通常采用动态规划解法。
+**本题非常非常非常典型，是LeetCode上和面试过程中很多题的原型，务必要理解明白。** “将数组划分为k段子数组，求最......”是典型的**数组分割问题**的最优解求解，通常采用动态规划解法。
 
+### 动态规划
 
-完整代码如下，也可见[solve.py](./solve.py)。
+这题可以用二维dp来求解，需要规划的变量有两个，即`dp[i][j]`表示数组的前i个数分割为j段所能得到的最大连续子数组的和的最小值。接着就要考虑如何递推，也就是如何进行状态转移，我们可以通过考虑第j段的具体范围（即枚举k，使得前k个数被分割为j-1段，k+1到i这些数都归到最后的第j段），此时j段子数组中和的最大值，等于`dp[k][j-1]`与`sum[k+1:i]`中的较大的那个，这里的`sum[i:j]`表示区间`[i,j]`内的数的和。
+
+故，可以写出使得子数组中和的最大值最小的状态转移方程如下。
+
+$$
+dp[i][j]=\min _{k=0}^{i-1}\{\max (dp[k][j-1], \operatorname{sub}(k+1, i))\}
+$$
+
+需要注意，dp数组的初始化，有`dp[0][0]=0`，这个可以理解，其实j=1时，唯一的可能性就是前i个数被分成了一段，此时合法的枚举k只能为0，这种情况下`dp[0][0]=0`。
+
+完整代码如下。
 
 ```python
-
+class Solution:
+    def splitArray(self, nums: List[int], m: int) -> int:
+        n = len(nums)
+        # 构建dp数组
+        dp = [[float("inf")] * (m+1) for _ in range(n+1)]
+        # 提前算好累计和，方便求解i到j的元素和集为sum[j] - sum[i-1]
+        sum = [0]
+        for item in nums:
+            sum.append(sum[-1] + item)
+        # 初始化
+        dp[0][0] = 0
+        # 状态转移
+        for i in range(1, n+1):
+            for j in range(1, min(i, m) + 1):
+                for k in range(i):
+                    dp[i][j] = min(dp[i][j], max(dp[k][j-1], sum[i] - sum[k]))
+        return dp[n][m]
 ```
+
+我们不妨来分析一下这个解法，数组长度为n，子数组数目为m，总状态数$O(n*m)$，状态转移时间复杂度$O(n)$，所以总的时间复杂度为$O(n^2*m)$，空间复杂度则为sp数组的开销，也就是$O(n*m)$。
+
+这种解法使用Python会出现超时（TLE错误），而C++不会出现TLE。我们下面来介绍这题的最优解---**二分查找法**，它的时间复杂度比动态规划优秀得多。
+
+### 二分查找
+
+这题得最优解实际上是二分查找法，思路也很有意思，首先我们必须知道，**子数组的最大和肯定大于等于数组的最大值且小于数组所有数组的和，这就是最大和的上下界。**
+
+由于数组都是非负整数，因此可以遍历区间上下界间的所有数字组成的列表，而在有序的数字列表间查找的话可以使用二分查找。
+
+二分查找的过程为，选定目标值mid，对数组按照题意进行划分，自左向右，累加和通过temp来进行跟踪，如果temp恰好大于了mid，那么当前访问的数字num则不能属于本组而应该是下一组，然后更新temp为下一组的累加和。
+
+最后可以统计出当前mid下划分为多少组，然后和m比较，若组数大于了m（说明至少要划分出这么多组才能达到mid这个最大和），这说明mid太小了，因此左边界右移，即left变大；否则，即组数不到m，说明mid太大了，right左移。
+
+代码如下，也可见 [solve.py](./solve.py)。
+```python
+class Solution:
+    def splitArray(self, nums: List[int], m: int) -> int:
+        def count_groups(mid):
+            temp, count = 0, 1  # count表示组数，从1开始，因为无论如何都有一组
+            for num in nums:
+                temp += num
+                if temp > mid:
+                    count += 1
+                    temp = num
+            return count
+        
+        left, right = max(nums), sum(nums)  # 定义边界
+        while left < right:
+            mid = (left + right) // 2
+            num_g = count_groups(mid)
+            if num_g > m:
+                # mid过小
+                left = mid + 1
+            else:
+                # mid 过大
+                right = mid
+        return left
+```
+
+我们来分析一下这个复杂度。用sum和max表示数组的和和最大值，那么二分查找时，需要遍历一次数组，复杂度为$O(n)$，总复杂度即为二分复杂度乘遍历复杂度，也就是$O(n * log(sum - max))$；空间复杂度为$O(1)$。
 
