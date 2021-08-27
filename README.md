@@ -23,5 +23,5 @@
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--:|:--:|:--:|:--:|
-|Other 01|link|子数组分割最大得分|Hard|数据结构-数组|[link todo](./Problems/other-001/README.md)|
+|Other 01|link|子数组分割最大得分|Hard|数据结构-数组|[link](./Problems/other-001/README.md)|
 
