@@ -15,7 +15,7 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |剑指Offer 03|[link](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|数组中重复的数字|Easy|数据结构-数组|[link](./Problems/lcof-003/README.md)|
 |剑指Offer 04|[link](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)|二维数组中的查找|Medium|算法-查找|[link](./Problems/lcof-004/README.md)|
-|剑指Offer 12|[link](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)|矩阵中的路径|Medium|回溯|[link](./Problems/lcof-012/README.md)|
+|剑指Offer 12|[link](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)|矩阵中的路径|Medium|算法-回溯|[link](./Problems/lcof-012/README.md)|
 |剑指Offer 20|[link](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|表示数值的字符串|Medium|数据结构-字符串|[link](./Problems/lcof-020/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|算法-动态规划|[link](./Problems/lcof-042/README.md)|
