@@ -5,9 +5,11 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|数据结构-链表|[link](./Problems/0021/README.md)|
+|56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数据结构-数组|[link](./Problems/0056/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|数据结构-链表|[link](./Problems/0206/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数据结构-数组|[link](./Problems/0410/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|算法-动态规划|[link](./Problems/0787/README.md)|
+|1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|算法-动态规划|[link-todo for zys](./Problems/1326/README.md)|
 
 下表则为LeetCode中国版额外题库，如剑指Offer系列。
 
