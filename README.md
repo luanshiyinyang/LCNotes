@@ -9,7 +9,7 @@
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|数据结构-链表|[link](./Problems/0206/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数据结构-数组|[link](./Problems/0410/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|算法-动态规划|[link](./Problems/0787/README.md)|
-|1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|算法-动态规划|[link-todo for zys](./Problems/1326/README.md)|
+|1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|算法-动态规划|[link](./Problems/1326/README.md)|
 
 下表则为LeetCode中国版额外题库，如剑指Offer系列。
 
