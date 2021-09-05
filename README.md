@@ -1,6 +1,6 @@
 > 本仓库为本人和小伙伴的面试准备刷题库，题目均来自LeetCode（英文版）和面试常见题目，本仓库包含题解，目前由我和[maple-zys](https://github.com/maple-zys)维护，根目录的`Problems`为题解库文件夹，每道题以题目id为文件夹，其中包含题目说明和题解描述的`markdown`文件（该文件按照二级标题统一格式）和一个对应的题解源码的`py`文件。**本仓库的部分题解包含的优化思路用于面试，面试解题可以先按照原始思路做，面试官问优化思路再回答。**
 
-## 目录
+## :books:目录
 
 ### 数组与矩阵
 
@@ -29,7 +29,10 @@
 
 
 
-## 题库
+## :memo:题库
+
+### 主站题库
+
 下表为LeetCode美国版原始题库。
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
@@ -40,6 +43,8 @@
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数据结构-数组|[link](./Problems/0410/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|算法-动态规划|[link](./Problems/0787/README.md)|
 |1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|算法-动态规划|[link](./Problems/1326/README.md)|
+
+### 剑指Offer系列
 
 下表则为LeetCode中国版额外题库，如剑指Offer系列。
 
@@ -52,6 +57,8 @@
 |剑指Offer 20|[link](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|表示数值的字符串|Medium|数据结构-字符串|[link](./Problems/lcof-020/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|数据结构-树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|算法-动态规划|[link](./Problems/lcof-042/README.md)|
+
+### 额外题库
 
 以下为不属于上述题库的其他典型题，这部分有的题目来自面试原题，不提供原题链接。
 
