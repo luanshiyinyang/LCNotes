@@ -8,7 +8,7 @@
 
 ### 文件组织格式
 
-根目录下的Markdown为笔记内容，`Problems`文件夹存放如下格式的文件，其中题目ID若为主站题库则采用四位数ID如0001，剑指Offer则采用lcof-001这类ID，其他题库采用other-001这类名称。每道题以ID为名为一个子文件夹，其中存放包含`题目描述`、`题解思路`、`优化思路`（可选）等二级标题写成的名为README.md的文件，另一个文件为solv.py存放题解代码。
+根目录下的Markdown为笔记内容，`Problems`文件夹存放如下格式的文件，其中题目ID若为主站题库则采用四位数ID如0001，剑指Offer则采用lcof-001这类ID，其他题库采用other-001这类名称。每道题以ID为名为一个子文件夹，其中存放包含`题目描述`、`题解思路`、`优化思路`（可选）等二级标题写成的名为README.md的文件，另一个文件为solv.py存放题解代码。如果题解md文件中需要图片则也放在这个文件夹下即可，后续管理员会手动将其上传图床。
 
 ```
 └─Problems
@@ -52,4 +52,31 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|数据结构-链表|[link](./Problems/0021/README.md)|
 
+```
+
+## 远程推送要求
+
+Git基础教程和多人写作教程参考下面两篇博客，我们的建议命令如下（**项目根目录进行**）。
+
+- [Git基础教程](https://zhouchen.blog.csdn.net/article/details/107125707)
+- [Git协作教程](https://zhouchen.blog.csdn.net/article/details/107294802)
+
+首先你需要进行仓库配置，下面的操作均是已被邀请为协作者才能顺利进行，只需要第一次配置时执行。
+
+```
+git clone git@github.com:luanshiyinyang/LCNotes.git
+git remote add origin git@github.com:luanshiyinyang/LCNotes.git
+git remote add origin-cn git@gitee.com:luanshiyinyang/LCNotes.git
+```
+
+下面是平时更新仓库采用的命令，包括拉取仓库最新更新、进行文件修改和增删后更新版本并推送。
+
+```
+# 拉取最近的版本
+git pull origin main
+# 进行本地文件增删
+git add .
+git commit -m "本次更新题目的描述，如lcof 001"
+git push origin main
+git push origin-cn main
 ```
