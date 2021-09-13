@@ -53,5 +53,4 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |Other 01|link|子数组分割最大得分|Hard|数组|[link](./Problems/other-001/README.md)|
 |Other 02| link | 不许ac | Easy | 编辑距离 | [link](./Problems/other-002/README.md)|
-|Other 03 | link | 最大K乘积 | Medium | 动态规划 | [link-todo]()
-|
+|Other 03 | link | 最大K乘积 | Medium | 动态规划 | [link-todo]()|
