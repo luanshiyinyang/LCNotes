@@ -23,6 +23,7 @@
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
+|524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy|数组|[link](./Problems/0605/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link-todo](./Problems/1293/README.md)
