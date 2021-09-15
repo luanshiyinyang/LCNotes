@@ -19,8 +19,8 @@
 
 ### 单调栈
 
-- [leetcode-316 去除重复字母]()
-- [leetcode-321 拼接最大数]()
+- [leetcode-316 去除重复字母](./Problems/0316/README.md)
+- [leetcode-321 拼接最大数](./Problems/0321/README.md)
 - [leetcode-402 移掉K位数字]()
 - [leetcode-1081 不同字符的最小子序列]()
 
@@ -37,6 +37,7 @@
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
+|321|[link](https://leetcode-cn.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 |316|[link](https://leetcode-cn.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
