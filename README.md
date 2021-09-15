@@ -4,9 +4,9 @@
 
 ### 二叉树
 
-- [locf-26 树的子结构](./Problems/lcof-026/README.md)
-- [locf-27 二叉树的镜像](./Problems/lcof-027/README.md)
-- [locf-28 对称的二叉树](./Problems/lcof-028/README.md)
+- [lcof-26 树的子结构](./Problems/lcof-026/README.md)
+- [lcof-27 二叉树的镜像](./Problems/lcof-027/README.md)
+- [lcof-28 对称的二叉树](./Problems/lcof-028/README.md)
 
 ### 编辑距离
 
