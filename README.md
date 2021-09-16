@@ -22,7 +22,6 @@
 - [leetcode-316 去除重复字母](./Problems/0316/README.md)
 - [leetcode-321 拼接最大数](./Problems/0321/README.md)
 - [leetcode-402 移掉K位数字](./Problems/0402/README.md)
-- [leetcode-1081 不同字符的最小子序列]()
 
 
 
