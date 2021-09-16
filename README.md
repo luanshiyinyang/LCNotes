@@ -10,7 +10,7 @@
 
 ### 编辑距离
 
-- [leetcode-72 编辑距离]()
+- [leetcode-72 编辑距离](./Problems/0072/README.md)
 - [leetcode-583 两个字符串的删除操作]()
 - [leetcode-712 两个字符串的最小ASCII删除和]()
 - [leetcode-1312 让字符串成为回文串的最少插入次数]()
