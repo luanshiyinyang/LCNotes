@@ -34,6 +34,7 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
+|36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
