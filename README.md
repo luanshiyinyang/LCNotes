@@ -43,6 +43,7 @@
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
+|443|[link](https://leetcode.com/problems/string-compression/)|String Compression|Medium|数组|[link](./Problems/0443/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy|数组|[link](./Problems/0605/README.md)|
