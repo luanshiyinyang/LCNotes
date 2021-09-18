@@ -22,7 +22,6 @@
 - [leetcode-316 去除重复字母](./Problems/0316/README.md)
 - [leetcode-321 拼接最大数](./Problems/0321/README.md)
 - [leetcode-402 移掉K位数字](./Problems/0402/README.md)
-- [leetcode-1081 不同字符的最小子序列]()
 
 
 
@@ -35,13 +34,16 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
+|36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
+|208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
+|443|[link](https://leetcode.com/problems/string-compression/)|String Compression|Medium|数组|[link](./Problems/0443/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy|数组|[link](./Problems/0605/README.md)|
