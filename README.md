@@ -49,7 +49,7 @@
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy|数组|[link](./Problems/0605/README.md)|
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
-| 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link-todo](./Problems/1293/README.md)
+| 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md)
 |1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|动态规划|[link](./Problems/1326/README.md)|
 | 1665 | [link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Hard | 贪心 | [link](./Problems/1665/README.md) | 
 
@@ -78,4 +78,4 @@
 |:---:|:--:|:--:|:--:|:--:|:--:|
 |Other 01|link|子数组分割最大得分|Hard|数组|[link](./Problems/other-001/README.md)|
 |Other 02| link | 不许ac | Easy | 编辑距离 | [link](./Problems/other-002/README.md)|
-|Other 03 | link | 最大K乘积 | Medium | 动态规划 | [link-todo]()|
+|Other 03 | link | 最大K乘积 | Medium | 动态规划 | [link](./Problems/other-003/README.md)|

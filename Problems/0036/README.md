@@ -14,7 +14,7 @@
 
 **示例1：**
 
-<img src='./sudoku.png'>
+![](https://i.loli.net/2021/09/18/XuselR3EWvZMSbk.png)
 
 ```
 输入：board = 
