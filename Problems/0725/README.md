@@ -10,7 +10,7 @@
 
 **示例1：**
 
-<img src='./split1-lc.jpg'></img>
+<img src='https://i.loli.net/2021/09/23/CfOTiaVY6s9Lzou.jpg'></img>
 
 ```
 输入：head = [1,2,3], k = 5
@@ -22,7 +22,7 @@
 
 **示例2：**
 
-<img src='./split2-lc.jpg'></img>
+<img src='https://i.loli.net/2021/09/23/ANIoQnG9HLO82Te.jpg'></img>
 
 ```
 输入：head = [1,2,3,4,5,6,7,8,9,10], k = 3
