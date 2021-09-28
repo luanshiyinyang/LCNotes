@@ -29,7 +29,9 @@
 因此，我们不妨定义`dp[i][j]`为s1前i个字符和s2前j个字符的最小ascii和，显然有下面的状态转移方程。
 
 $$
-dp[i][j] = dp[i-1][j-1] if s1[i-1] = s2[j-1] \\
+dp[i][j] = dp[i-1][j-1] if s1[i-1] = s2[j-1]
+$$
+$$
 dp[i][j] = min(dp[i-1][j] + ascii(s1[i-1]), dp[i][j-1] + ascii(s2[j-1])) if s1[i-1] \ne s2[j-1]
 $$
 
