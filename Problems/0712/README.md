@@ -30,7 +30,7 @@
 
 $$
 dp[i][j] = dp[i-1][j-1] if s1[i-1] = s2[j-1] \\
-dp[i][j] = min(dp[i-1][j] + ascii(s1[i-1]), dp[i][j-1] + ascii(s2[j-1]))
+dp[i][j] = min(dp[i-1][j] + ascii(s1[i-1]), dp[i][j-1] + ascii(s2[j-1])) if s1[i-1] \ne s2[j-1]
 $$
 
 需要注意dp数组的边界初始化，也就是当i为0或者j为0是，dp数组的值为累计ascii值。
