@@ -15,13 +15,13 @@
 
 ```
 
-<img src='./flatten.png'>
+![](https://i.loli.net/2021/09/28/Xq5AtULesCVaugK.png)
 
 ```
 扁平化后的链表如下图：
 ```
 
-<img src='./flattened.png'>
+![](https://i.loli.net/2021/09/28/Lnf6EoHQyjN4ewU.png)
 
 **示例2：**
 

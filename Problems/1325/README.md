@@ -8,7 +8,7 @@
 
 **示例1：**
 
-<img src='./1325_1.png'>
+![](https://i.loli.net/2021/09/28/ad9I1Q4oNk8hOrz.png)
 
 ```
 输入：root = [1,2,3,2,null,2,4], target = 2
@@ -20,7 +20,7 @@
 
 **示例2：**
 
-<img src='./1325_2.png'>
+![](https://i.loli.net/2021/09/28/58EBCiIa7WnlPjf.png)
 
 ```
 输入：root = [1,3,3,3,2], target = 3
@@ -29,7 +29,7 @@
 
 **示例3：**
 
-<img src='./1325_3.png'>
+![](https://i.loli.net/2021/09/28/tzk8dYbZKDxsSjh.png)
 
 ```
 输入：root = [1,2,null,2,null,2], target = 2
