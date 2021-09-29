@@ -12,7 +12,7 @@
 
 - [leetcode-72 编辑距离](./Problems/0072/README.md)
 - [leetcode-583 两个字符串的删除操作](./Problems/0583/README.md)
-- [leetcode-712 两个字符串的最小ASCII删除和]()
+- [leetcode-712 两个字符串的最小ASCII删除和](./Problems/0712/README.md)
 - [leetcode-1312 让字符串成为回文串的最少插入次数]()
 - [leetcode-1647 字符频次唯一的最小删除次数]()
 - [leetcode-1541 平衡括号字符串的最少插入次数]()
@@ -51,6 +51,7 @@
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy|数组|[link](./Problems/0605/README.md)|
+| 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md)
