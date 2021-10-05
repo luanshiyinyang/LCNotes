@@ -43,6 +43,7 @@
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
+| 416 | [link](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | 动态规划 | [link](./Problems/0416/README.md) |
 |443|[link](https://leetcode.com/problems/string-compression/)|String Compression|Medium|数组|[link](./Problems/0443/README.md)|
 |430|[link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|Medium|链表|[link](./Problems/0430/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
