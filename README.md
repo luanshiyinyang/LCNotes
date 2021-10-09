@@ -48,6 +48,7 @@
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
+| 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
