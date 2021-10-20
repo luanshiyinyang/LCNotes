@@ -51,6 +51,7 @@
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
 | 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)|
 | 189 | [link](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | 双指针 | [link](./Problems/0189/README.md) |
+| 191 | [link](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy | 位运算 | [link](./Problems/0191/README.md) | 
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
