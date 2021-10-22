@@ -46,7 +46,7 @@
 |:---:|:--:|:--|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
-| 42 | [link](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | 双指针 | [link-todo]() |
+| 42 | [link](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | 双指针 | [link](./Problems/0042/README.md) |
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 |66|[link](https://leetcode.com/problems/plus-one/)|Plus One|Easy|数组|[link](./Problems/0066/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
