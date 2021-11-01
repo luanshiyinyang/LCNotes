@@ -13,7 +13,7 @@
 - [leetcode-72 编辑距离](./Problems/0072/README.md)
 - [leetcode-583 两个字符串的删除操作](./Problems/0583/README.md)
 - [leetcode-712 两个字符串的最小ASCII删除和](./Problems/0712/README.md)
-- [leetcode-1312 让字符串成为回文串的最少插入次数]()
+- [leetcode-1312 让字符串成为回文串的最少插入次数](./Problems/1312/README.md)
 - [leetcode-1647 字符频次唯一的最小删除次数]()
 - [leetcode-1541 平衡括号字符串的最少插入次数]()
 
@@ -75,8 +75,9 @@
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
-| 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md)
-|1325|[link](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|Delete Leaves With a Given Value|Medium|二叉树|[link](./Problems/1325/README.md)
+| 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
+| 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
+|1325|[link](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|Delete Leaves With a Given Value|Medium|二叉树|[link](./Problems/1325/README.md) |
 |1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|动态规划|[link](./Problems/1326/README.md)|
 | 1665 | [link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Hard | 贪心 | [link](./Problems/1665/README.md) | 
 
