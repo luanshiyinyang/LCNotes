@@ -70,6 +70,7 @@
 |515|[link](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Find Largest Value in Each Tree Row|Medium|二叉树|[link](./Problems/0515/README.md)|
 |517|[link](https://leetcode.com/problems/super-washing-machines/)|Super Washing Machines|Hard|二叉树|[link](./Problems/0517/README.md)|
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
+|575|[link](https://leetcode.com/problems/distribute-candies/)|Distribute Candies|Easy|贪心|[link](./Problems/0575/README.md)|
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
