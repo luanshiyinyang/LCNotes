@@ -6,7 +6,7 @@
 
 **示例1：**
 
-<img src='./0237_1.jpg'>
+![](https://i.loli.net/2021/11/04/c3wNOkLEZT9UBFW.jpg)
 
 ```
 输入：head = [4,5,1,9], node = 5
@@ -16,7 +16,7 @@
 
 **示例2：**
 
-<img src='./0237_2.jpg'>
+![](https://i.loli.net/2021/11/04/ToaFIgOzyiefvmW.jpg)
 
 ```
 输入：head = [4,5,1,9], node = 1
