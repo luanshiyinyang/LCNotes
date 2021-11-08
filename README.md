@@ -59,6 +59,7 @@
 |229|[link](https://leetcode.com/problems/majority-element-ii/)|Majority Element II|Medium|哈希表|[link](./Problems/0229/README.md)|
 |231|[link](https://leetcode.com/problems/power-of-two/)|Power of Two|Easy|位运算|[link](./Problems/0231/README.md)|
 |237|[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Delete Node in a Linked List|Easy|链表|[link](./Problems/0237/README.md)|
+|299|[link](https://leetcode.com/problems/bulls-and-cows/)|Bulls and Cows|Medium|哈希表|[link](./Problems/0299/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 | 322 | [link](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | 动态规划 | [link](./Problems/0322/README.md) |
