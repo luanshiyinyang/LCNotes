@@ -1,50 +1,47 @@
 ## 题目描述
 
-给定一个整数数组，判断是否存在重复元素。
-
-如果存在一值在数组中出现至少两次，函数返回 true 。如果数组中每个元素都不相同，则返回 false 。
+给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target  ，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
 
 **示例1：**
 
 ```
-输入: [1,2,3,1]
-输出: true
+输入: nums = [-1,0,3,5,9,12], target = 9
+输出: 4
+解释: 9 出现在 nums 中并且下标为 4
 ```
 
 **示例2：**
 
 ```
-输入: [1,2,3,4]
-输出: false
-```
-
-**示例3：**
-
-```
-输入: [1,1,1,3,3,4,3,2,4,2]
-输出: true
+输入: nums = [-1,0,3,5,9,12], target = 2
+输出: -1
+解释: 2 不存在 nums 中因此返回 -1
 ```
 
 ## 题解思路
 
-用哈希表记录每个数字出现的次数，若有数字的次数大于1，则返回 true ，若所有数字的次数小于等于1，则返回 false。
+由于是升序有序数组，取数组中间的一个元素，若 $target$ 小于该值，则 $target$ 位置再该值之前，若大于，则在之后，递归地查找，直至找到 $target$ 。
 
-时间复杂度为 $O(n)$ ，空间复杂度为 $O(n)$ 。
+时间复杂度为 $O(\log n)$ ，空间复杂度为 $O(1)$ 。
 
 代码如下，也可见 [solve.cpp](./solve.cpp)。
 
 ```c++
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> myMap;
-        for(int num : nums){
-            if(myMap.find(num) != myMap.end()){
-                return true;
+    int search(vector<int>& nums, int target) {
+        int end = nums.size() - 1, start = 0, mid;
+        while(start <= end){
+            mid = start + (end - start) / 2;
+            if(nums[mid] == target){
+                return mid;
+            } else if(nums[mid] > target){
+                end = mid - 1;
+            } else{
+                start = mid + 1;
             }
-            myMap.insert(num);
         }
-        return false;
+        return -1;
     }
 };
 

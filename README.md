@@ -45,6 +45,7 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
+|35|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0035/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 | 42 | [link](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | 双指针 | [link](./Problems/0042/README.md) |
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
@@ -57,8 +58,10 @@
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |229|[link](https://leetcode.com/problems/majority-element-ii/)|Majority Element II|Medium|哈希表|[link](./Problems/0229/README.md)|
+|217|[link](https://leetcode.com/problems/contains-duplicate/)|Contains Duplicate|Easy|哈希表|[link](./Problems/0217/README.md)|
 |231|[link](https://leetcode.com/problems/power-of-two/)|Power of Two|Easy|位运算|[link](./Problems/0231/README.md)|
 |237|[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Delete Node in a Linked List|Easy|链表|[link](./Problems/0237/README.md)|
+|278|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0278/README.md)|
 |299|[link](https://leetcode.com/problems/bulls-and-cows/)|Bulls and Cows|Medium|哈希表|[link](./Problems/0299/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
