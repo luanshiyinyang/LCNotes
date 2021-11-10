@@ -44,13 +44,16 @@
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
+|1|[link](https://leetcode.com/problems/two-sum/)|Two Sum|Easy|哈希表|[link](./Problems/0001/README.md)|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
 |35|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0035/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 | 42 | [link](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | 双指针 | [link](./Problems/0042/README.md) |
+|53|[link](https://leetcode.com/problems/maximum-subarray/)|Maximum Subarray|Easy|动态规划|[link](./Problems/0053/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
 |66|[link](https://leetcode.com/problems/plus-one/)|Plus One|Easy|数组|[link](./Problems/0066/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
+|88|[link](https://leetcode.com/problems/merge-sorted-array/)|Merge Sorted Array|Easy|双指针|[link](./Problems/0088/README.md)|
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
 | 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)|
 | 189 | [link](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | 双指针 | [link](./Problems/0189/README.md) |
@@ -84,6 +87,7 @@
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
+|977|[link](https://leetcode.com/problems/squares-of-a-sorted-array/)|Squares of a Sorted Array|Easy|双指针|[link](./Problems/0977/README.md)|
 |1218|[link](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) |Longest Arithmetic Subsequence of Given Difference|Medium|动态规划|[link](./Problems/1218/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
 | 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
