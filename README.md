@@ -55,6 +55,7 @@
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |88|[link](https://leetcode.com/problems/merge-sorted-array/)|Merge Sorted Array|Easy|双指针|[link](./Problems/0088/README.md)|
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
+|118|[link](https://leetcode.com/problems/pascals-triangle/)|Pascal's Triangle|Easy|动态规划|[link](./Problems/0118/README.md)|
 |121|[link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Best Time to Buy and Sell Stock|Easy|动态规划|[link](./Problems/0121/README.md)|
 | 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)|
 |167|[link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Two Sum II - Input Array Is Sorted|Easy|双指针|[link](./Problems/0167/README.md)|
@@ -72,6 +73,7 @@
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 | 322 | [link](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | 动态规划 | [link](./Problems/0322/README.md) |
+|344|[link](https://leetcode.com/problems/reverse-string/)|Reverse String|Easy|双指针|[link](./Problems/0344/README.md)|
 |350|[link](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Intersection of Two Arrays II|Easy|哈希表|[link](./Problems/0350/README.md)|
 |367|[link](https://leetcode.com/problems/valid-perfect-square/)|Valid Perfect Square|Easy|分治法|[link](./Problems/0367/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
@@ -84,6 +86,8 @@
 |515|[link](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Find Largest Value in Each Tree Row|Medium|二叉树|[link](./Problems/0515/README.md)|
 |517|[link](https://leetcode.com/problems/super-washing-machines/)|Super Washing Machines|Hard|二叉树|[link](./Problems/0517/README.md)|
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
+|557|[link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|Reverse Words in a String III|Easy|双指针|[link](./Problems/0557/README.md)|
+|566|[link](https://leetcode.com/problems/reshape-the-matrix/)|Reshape the Matrix|Easy|数组|[link](./Problems/0566/README.md)|
 |575|[link](https://leetcode.com/problems/distribute-candies/)|Distribute Candies|Easy|贪心|[link](./Problems/0575/README.md)|
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
