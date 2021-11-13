@@ -95,6 +95,7 @@
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
+|876|[link](https://leetcode.com/problems/middle-of-the-linked-list/)|Middle of the Linked List|Easy|双指针|[link](./Problems/0876/README.md)|
 |977|[link](https://leetcode.com/problems/squares-of-a-sorted-array/)|Squares of a Sorted Array|Easy|双指针|[link](./Problems/0977/README.md)|
 |1218|[link](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) |Longest Arithmetic Subsequence of Given Difference|Medium|动态规划|[link](./Problems/1218/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
