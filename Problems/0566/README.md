@@ -10,7 +10,7 @@
 
 **示例1：**
 
-<img src='./0566_1.jpg'>
+![](https://i.loli.net/2021/11/15/UPueK5W1Aqo2mtF.jpg)
 
 ```
 输入：mat = [[1,2],[3,4]], r = 1, c = 4
@@ -19,7 +19,7 @@
 
 **示例2：**
 
-<img src='./0566_2.jpg'>
+![](https://i.loli.net/2021/11/15/ErBoFQD3pARKYGs.jpg)
 
 ```
 输入：mat = [[1,2],[3,4]], r = 2, c = 4

@@ -4,7 +4,7 @@
 
 在「杨辉三角」中，每个数是它左上方和右上方的数的和。
 
-<img src='./0118.gif'>
+![](https://i.loli.net/2021/11/15/woTE6JaenfZMRXQ.gif)
 
 **示例1：**
 
