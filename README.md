@@ -45,6 +45,8 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
 |1|[link](https://leetcode.com/problems/two-sum/)|Two Sum|Easy|哈希表|[link](./Problems/0001/README.md)|
+|3|[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Longest Substring Without Repeating Characters|Medium|滑动窗口|[link](./Problems/0003/README.md)|
+|19|[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|Medium|双指针|[link](./Problems/0019/README.md)|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
 |35|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0035/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
@@ -89,6 +91,7 @@
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
 |557|[link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|Reverse Words in a String III|Easy|双指针|[link](./Problems/0557/README.md)|
 |566|[link](https://leetcode.com/problems/reshape-the-matrix/)|Reshape the Matrix|Easy|数组|[link](./Problems/0566/README.md)|
+|567|[link](https://leetcode.com/problems/permutation-in-string/)|Permutation in String|Medium|数组|[link](./Problems/0567/README.md)|
 |575|[link](https://leetcode.com/problems/distribute-candies/)|Distribute Candies|Easy|贪心|[link](./Problems/0575/README.md)|
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
