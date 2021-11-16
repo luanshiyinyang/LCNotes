@@ -71,6 +71,7 @@
 |283|[link](https://leetcode.com/problems/move-zeroes/)|Move Zeroes|Easy|双指针|[link](./Problems/0283/README.md)|
 |299|[link](https://leetcode.com/problems/bulls-and-cows/)|Bulls and Cows|Medium|哈希表|[link](./Problems/0299/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
+| 319 | [link](https://leetcode.com/problems/bulb-switcher/) | Medium | Medium | 数学推导 | [link](./Problems/0319/README.md) |
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 | 322 | [link](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | 动态规划 | [link](./Problems/0322/README.md) |
 |344|[link](https://leetcode.com/problems/reverse-string/)|Reverse String|Easy|双指针|[link](./Problems/0344/README.md)|
