@@ -34,6 +34,20 @@
 - [leetcode-617 合并二叉树]()
 - [leetcode-965 单值二叉树]()
 
+### 01背包
+
+- [leetcode-416 分割等和子集]()
+- [leetcode-474 一和零]()
+- [leetcode-494 目标和]()
+- [leetcode-879 盈利计划]()
+
+### 完全背包
+
+- [leetcode-322 零钱兑换]()
+- [leetcode-518 零钱兑换 II]()
+- [leetcode-1449 数位成本和为目标值的最大数字]()
+
+
 
 
 ## :memo:题库
