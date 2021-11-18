@@ -61,6 +61,7 @@
 |1|[link](https://leetcode.com/problems/two-sum/)|Two Sum|Easy|哈希表|[link](./Problems/0001/README.md)|
 |3|[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Longest Substring Without Repeating Characters|Medium|滑动窗口|[link](./Problems/0003/README.md)|
 |19|[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|Medium|双指针|[link](./Problems/0019/README.md)|
+|20|[link](https://leetcode.com/problems/valid-parentheses/)|Valid Parentheses|Easy|栈|[link](./Problems/0020/README.md)|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
 |35|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0035/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
@@ -70,6 +71,7 @@
 |66|[link](https://leetcode.com/problems/plus-one/)|Plus One|Easy|数组|[link](./Problems/0066/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |73|[link](https://leetcode.com/problems/set-matrix-zeroes/)|Set Matrix Zeroes|Medium|数组|[link](./Problems/0073/README.md)|
+|83|[link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Remove Duplicates from Sorted List|Easy|链表|[link](./Problems/083/README.md)|
 |88|[link](https://leetcode.com/problems/merge-sorted-array/)|Merge Sorted Array|Easy|双指针|[link](./Problems/0088/README.md)|
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
 |118|[link](https://leetcode.com/problems/pascals-triangle/)|Pascal's Triangle|Easy|动态规划|[link](./Problems/0118/README.md)|
@@ -78,6 +80,7 @@
 |167|[link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Two Sum II - Input Array Is Sorted|Easy|双指针|[link](./Problems/0167/README.md)|
 | 189 | [link](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | 双指针 | [link](./Problems/0189/README.md) |
 | 191 | [link](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy | 位运算 | [link](./Problems/0191/README.md) | 
+|203|[link](https://leetcode.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|Easy|链表|[link](./Problems/0203/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |229|[link](https://leetcode.com/problems/majority-element-ii/)|Majority Element II|Medium|哈希表|[link](./Problems/0229/README.md)|
