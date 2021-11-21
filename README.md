@@ -15,7 +15,7 @@
 - [leetcode-712 两个字符串的最小ASCII删除和](./Problems/0712/README.md)
 - [leetcode-1312 让字符串成为回文串的最少插入次数](./Problems/1312/README.md)
 - [leetcode-1647 字符频次唯一的最小删除次数](./Problems/1647/README.md)
-- [leetcode-1541 平衡括号字符串的最少插入次数]()
+- [leetcode-1541 平衡括号字符串的最少插入次数](./Problems/1541/README.md)
 
 ### 单调栈
 
@@ -127,6 +127,7 @@
 | 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
 |1325|[link](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|Delete Leaves With a Given Value|Medium|二叉树|[link](./Problems/1325/README.md) |
 |1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|动态规划|[link](./Problems/1326/README.md)|
+| 1541 | [link](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Minimum Insertions to Balance a Parentheses String | Medium | 贪心 | [link](./Problems/1541/README.md) |
 | 1647 | [link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Minimum Deletions to Make Character Frequencies Unique | Medium | 哈希表 | [link](./Problems/1647/README.md) | 
 | 1665 | [link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Hard | 贪心 | [link](./Problems/1665/README.md) | 
 
