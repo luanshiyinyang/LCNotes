@@ -115,6 +115,7 @@
 |575|[link](https://leetcode.com/problems/distribute-candies/)|Distribute Candies|Easy|贪心|[link](./Problems/0575/README.md)|
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
+|695|[link](https://leetcode.com/problems/max-area-of-island/)|Max Area of Island|Medium|深度优先搜索|[link](./Problems/0695/README.md)|
 |704|[link](https://leetcode.com/problems/binary-search/)|Binary Search|Easy|分治|[link](./Problems/0704/README.md)|
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
