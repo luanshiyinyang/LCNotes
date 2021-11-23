@@ -58,7 +58,6 @@
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
-|1|[link](https://leetcode.com/problems/two-sum/)|Two Sum|Easy|哈希表|[link](./Problems/0001/README.md)|
 |3|[link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Longest Substring Without Repeating Characters|Medium|滑动窗口|[link](./Problems/0003/README.md)|
 |19|[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|Medium|双指针|[link](./Problems/0019/README.md)|
 |20|[link](https://leetcode.com/problems/valid-parentheses/)|Valid Parentheses|Easy|栈|[link](./Problems/0020/README.md)|
