@@ -62,43 +62,30 @@
 |19|[link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Remove Nth Node From End of List|Medium|双指针|[link](./Problems/0019/README.md)|
 |20|[link](https://leetcode.com/problems/valid-parentheses/)|Valid Parentheses|Easy|栈|[link](./Problems/0020/README.md)|
 |21|[link](https://leetcode.com/problems/merge-two-sorted-lists/)|Merge Two Sorted Lists|Easy|链表|[link](./Problems/0021/README.md)|
-|35|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0035/README.md)|
 |36|[link](https://leetcode.com/problems/valid-sudoku/)|Valid Sudoku|Medium|数组|[link](./Problems/0036/README.md)|
 | 42 | [link](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | 双指针 | [link](./Problems/0042/README.md) |
 |53|[link](https://leetcode.com/problems/maximum-subarray/)|Maximum Subarray|Easy|动态规划|[link](./Problems/0053/README.md)|
 |56|[link](https://leetcode.com/problems/merge-intervals/)|Merge Intervals|Medium|数组|[link](./Problems/0056/README.md)|
-|66|[link](https://leetcode.com/problems/plus-one/)|Plus One|Easy|数组|[link](./Problems/0066/README.md)|
 | 72 | [link](https://leetcode.com/problems/edit-distance/) | Edit Distance | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |73|[link](https://leetcode.com/problems/set-matrix-zeroes/)|Set Matrix Zeroes|Medium|数组|[link](./Problems/0073/README.md)|
-|83|[link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Remove Duplicates from Sorted List|Easy|链表|[link](./Problems/083/README.md)|
-|88|[link](https://leetcode.com/problems/merge-sorted-array/)|Merge Sorted Array|Easy|双指针|[link](./Problems/0088/README.md)|
+|74|[link](https://leetcode.com/problems/search-a-2d-matrix/)|Search a 2D Matrix|Medium|分治法|[link](./Problems/0074/README.md)|
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
-|118|[link](https://leetcode.com/problems/pascals-triangle/)|Pascal's Triangle|Easy|动态规划|[link](./Problems/0118/README.md)|
 |121|[link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Best Time to Buy and Sell Stock|Easy|动态规划|[link](./Problems/0121/README.md)|
 | 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)|
-|167|[link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Two Sum II - Input Array Is Sorted|Easy|双指针|[link](./Problems/0167/README.md)|
 | 189 | [link](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | 双指针 | [link](./Problems/0189/README.md) |
 | 191 | [link](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy | 位运算 | [link](./Problems/0191/README.md) | 
-|203|[link](https://leetcode.com/problems/remove-linked-list-elements/)|Remove Linked List Elements|Easy|链表|[link](./Problems/0203/README.md)|
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
 |208|[link](https://leetcode.com/problems/implement-trie-prefix-tree/)|Implement Trie (Prefix Tree)|Medium|字典树|[link](./Problems/0208/README.md)|
 |229|[link](https://leetcode.com/problems/majority-element-ii/)|Majority Element II|Medium|哈希表|[link](./Problems/0229/README.md)|
-|217|[link](https://leetcode.com/problems/contains-duplicate/)|Contains Duplicate|Easy|哈希表|[link](./Problems/0217/README.md)|
 |231|[link](https://leetcode.com/problems/power-of-two/)|Power of Two|Easy|位运算|[link](./Problems/0231/README.md)|
 |237|[link](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Delete Node in a Linked List|Easy|链表|[link](./Problems/0237/README.md)|
-|242|[link](https://leetcode.com/problems/valid-anagram/)|Valid Anagram|Easy|哈希表|[link](./Problems/0242/README.md)|
-|278|[link](https://leetcode.com/problems/search-insert-position/)|Search Insert Position|Easy|分治|[link](./Problems/0278/README.md)|
 |283|[link](https://leetcode.com/problems/move-zeroes/)|Move Zeroes|Easy|双指针|[link](./Problems/0283/README.md)|
 |299|[link](https://leetcode.com/problems/bulls-and-cows/)|Bulls and Cows|Medium|哈希表|[link](./Problems/0299/README.md)|
 |316|[link](https://leetcode.com/problems/remove-duplicate-letters/)|Remove Duplicate Letters|Medium|单调栈|[link](./Problems/0316/README.md)|
 | 319 | [link](https://leetcode.com/problems/bulb-switcher/) | Medium | Medium | 数学推导 | [link](./Problems/0319/README.md) |
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 | 322 | [link](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | 动态规划 | [link](./Problems/0322/README.md) |
-|344|[link](https://leetcode.com/problems/reverse-string/)|Reverse String|Easy|双指针|[link](./Problems/0344/README.md)|
-|350|[link](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Intersection of Two Arrays II|Easy|哈希表|[link](./Problems/0350/README.md)|
 |367|[link](https://leetcode.com/problems/valid-perfect-square/)|Valid Perfect Square|Easy|分治法|[link](./Problems/0367/README.md)|
-|383|[link](https://leetcode.com/problems/ransom-note/)|Ransom Note|Easy|哈希表|[link](./Problems/0383/README.md)|
-|387|[link](https://leetcode.com/problems/first-unique-character-in-a-string/)|First Unique Character in a String|Easy|哈希表|[link](./Problems/0387/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
 | 416 | [link](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | 动态规划 | [link](./Problems/0416/README.md) |
@@ -116,12 +103,10 @@
 | 583 | [link](https://leetcode.com/problems/delete-operation-for-two-strings/) | Delete Operation for Two Strings | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
 |695|[link](https://leetcode.com/problems/max-area-of-island/)|Max Area of Island|Medium|深度优先搜索|[link](./Problems/0695/README.md)|
-|704|[link](https://leetcode.com/problems/binary-search/)|Binary Search|Easy|分治|[link](./Problems/0704/README.md)|
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
 |876|[link](https://leetcode.com/problems/middle-of-the-linked-list/)|Middle of the Linked List|Easy|双指针|[link](./Problems/0876/README.md)|
-|977|[link](https://leetcode.com/problems/squares-of-a-sorted-array/)|Squares of a Sorted Array|Easy|双指针|[link](./Problems/0977/README.md)|
 |1218|[link](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) |Longest Arithmetic Subsequence of Given Difference|Medium|动态规划|[link](./Problems/1218/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
 | 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
