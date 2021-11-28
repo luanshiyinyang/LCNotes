@@ -45,9 +45,7 @@
 
 - [leetcode-322 零钱兑换]()
 - [leetcode-518 零钱兑换 II]()
-- [leetcode-1449 数位成本和为目标值的最大数字]()
-
-
+- [leetcode-1449 数位成本和为目标值的最大数字](./Problems/1449/README.md)
 
 
 ## :memo:题库
@@ -114,6 +112,7 @@
 | 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
 |1325|[link](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|Delete Leaves With a Given Value|Medium|二叉树|[link](./Problems/1325/README.md) |
 |1326|[link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|Minimum Number of Taps to Open to Water a Garden|Hard|动态规划|[link](./Problems/1326/README.md)|
+| 1449 | [link](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Form Largest Integer With Digits That Add up to Target | Hard | 动态规划 | [link](./Problems/1449/README.md) |
 | 1541 | [link](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Minimum Insertions to Balance a Parentheses String | Medium | 贪心 | [link](./Problems/1541/README.md) |
 | 1647 | [link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Minimum Deletions to Make Character Frequencies Unique | Medium | 哈希表 | [link](./Problems/1647/README.md) | 
 | 1665 | [link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Minimum Initial Energy to Finish Tasks | Hard | 贪心 | [link](./Problems/1665/README.md) | 
