@@ -39,7 +39,7 @@
 - [leetcode-416 分割等和子集](./Problems/0416/README.md)
 - [leetcode-474 一和零](./Problems/0474/README.md)
 - [leetcode-494 目标和](./Problems/0494/README.md)
-- [leetcode-879 盈利计划]()
+- [leetcode-879 盈利计划](./Problems/0879/README.md)
 
 ### 完全背包
 
