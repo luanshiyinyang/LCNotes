@@ -92,6 +92,8 @@
 |430|[link](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|Flatten a Multilevel Doubly Linked List|Medium|链表|[link](./Problems/0430/README.md)|
 |447|[link](https://leetcode.com/problems/number-of-boomerangs/)|Number of Boomerangs|Medium|哈希表|[link](./Problems/0447/README.md)|
 |453|[link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Minimum Moves to Equal Array Elements|Medium|数组|[link](./Problems/0453/README.md)|
+|474|[link](https://leetcode.com/problems/ones-and-zeroes/)|Ones and Zeroes|Medium|01背包问题|[link](./Problems/0474/README.md)|
+|494|[link](https://leetcode.com/problems/target-sum/)|Target Sum|Medium|01背包问题|[link](./Problems/0494/README.md)|
 |515|[link](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Find Largest Value in Each Tree Row|Medium|二叉树|[link](./Problems/0515/README.md)|
 |517|[link](https://leetcode.com/problems/super-washing-machines/)|Super Washing Machines|Hard|二叉树|[link](./Problems/0517/README.md)|
 |524|[link](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| Longest Word in Dictionary through Deleting|Medium|双指针|[link](./Problems/0524/README.md)|
@@ -105,8 +107,10 @@
 |695|[link](https://leetcode.com/problems/max-area-of-island/)|Max Area of Island|Medium|深度优先搜索|[link](./Problems/0695/README.md)|
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
+|786|[link](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|K-th Smallest Prime Fraction|Hard|二分查找|[link](./Problems/0786/README.md)|
 |787|[link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Cheapest Flights Within K Stops|Medium|动态规划|[link](./Problems/0787/README.md)|
 |876|[link](https://leetcode.com/problems/middle-of-the-linked-list/)|Middle of the Linked List|Easy|双指针|[link](./Problems/0876/README.md)|
+|879|[link](https://leetcode.com/problems/profitable-schemes/)|Profitable Schemes|Hard|01背包问题|[link](./Problems/0879/README.md)|
 |1218|[link](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) |Longest Arithmetic Subsequence of Given Difference|Medium|动态规划|[link](./Problems/1218/README.md)|
 | 1293 | [link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination| Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
 | 1312 | [link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard | 动态规划 | [link](./Problems/1312/README.md)|
