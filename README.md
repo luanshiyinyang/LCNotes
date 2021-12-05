@@ -85,6 +85,7 @@
 |321|[link](https://leetcode.com/problems/create-maximum-number/)|Create Maximum Number|Hard|单调栈|[link](./Problems/0321/README.md)|
 | 322 | [link](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | 动态规划 | [link](./Problems/0322/README.md) |
 |367|[link](https://leetcode.com/problems/valid-perfect-square/)|Valid Perfect Square|Easy|分治法|[link](./Problems/0367/README.md)|
+|372|[link](https://leetcode.com/problems/super-pow/)|Super Pow|Medium|无|[link](./Problems/0372/README.md)|
 |402|[link](https://leetcode.com/problems/remove-k-digits/)|Remove K Digits|Medium|单调栈|[link](./Problems/0402/README.md)|
 |410|[link](https://leetcode.com/problems/split-array-largest-sum/)|Split Array Largest Sum|Hard|数组|[link](./Problems/0410/README.md)|
 | 416 | [link](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | 动态规划 | [link](./Problems/0416/README.md) |
