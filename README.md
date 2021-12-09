@@ -34,6 +34,30 @@
 - [leetcode-617 合并二叉树]()
 - [leetcode-965 单值二叉树]()
 
+### 二分查找
+
+- [leetcode-4 寻找两个正序数组的中位数]()
+- [leetcode-33 搜索旋转排序数组]()
+- [leetcode-34 在排序数组中查找元素的第一个和最后一个位置]()
+- [leetcode-69 Sqrt(x)]()
+- [leetcode-81 搜索旋转排序数组 II]()
+- [leetcode-153 寻找旋转排序数组中的最小值]()
+- [leetcode-154 寻找旋转排序数组中的最小值 II]()
+- [leetcode-275 H 指数 II]()
+- [leetcode-287 寻找重复数]()
+- [leetcode-300 最长递增子序列]()
+- [leetcode-374 猜数字大小]()
+- [leetcode-410 分割数组的最大值]()
+- [leetcode-658 找到 K 个最接近的元素]()
+- [leetcode-704 二分查找]()
+- [leetcode-852 山脉数组的峰顶索引]()
+- [leetcode-875 爱吃香蕉的珂珂]()
+- [leetcode-1095 山脉数组中查找目标值]()
+- [leetcode-1300 转变数组后最接近目标值的数组和]()
+- [leetcode-1482 制作 m 束花所需的最少天数]()
+- [leetcode-1552 两球之间的磁力]()
+
+
 ### 01背包
 
 - [leetcode-416 分割等和子集](./Problems/0416/README.md)
