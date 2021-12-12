@@ -8,15 +8,6 @@
 - [lcof-27 二叉树的镜像](./Problems/lcof-027/README.md)
 - [lcof-28 对称的二叉树](./Problems/lcof-028/README.md)
 
-### 编辑距离
-
-- [leetcode-72 编辑距离](./Problems/0072/README.md)
-- [leetcode-583 两个字符串的删除操作](./Problems/0583/README.md)
-- [leetcode-712 两个字符串的最小ASCII删除和](./Problems/0712/README.md)
-- [leetcode-1312 让字符串成为回文串的最少插入次数](./Problems/1312/README.md)
-- [leetcode-1647 字符频次唯一的最小删除次数](./Problems/1647/README.md)
-- [leetcode-1541 平衡括号字符串的最少插入次数](./Problems/1541/README.md)
-
 ### 单调栈
 
 - [leetcode-316 去除重复字母](./Problems/0316/README.md)
@@ -57,6 +48,10 @@
 - [leetcode-1482 制作 m 束花所需的最少天数]()
 - [leetcode-1552 两球之间的磁力]()
 
+### 位运算
+
+- [leetcode-709 转换成小写字母](./Problems/0709/README.md)
+
 
 ### 01背包
 
@@ -70,6 +65,15 @@
 - [leetcode-322 零钱兑换](./Problems/0322/README.md)
 - [leetcode-518 零钱兑换 II](./Problems/0518/README.md)
 - [leetcode-1449 数位成本和为目标值的最大数字](./Problems/1449/README.md)
+
+### 编辑距离
+
+- [leetcode-72 编辑距离](./Problems/0072/README.md)
+- [leetcode-583 两个字符串的删除操作](./Problems/0583/README.md)
+- [leetcode-712 两个字符串的最小ASCII删除和](./Problems/0712/README.md)
+- [leetcode-1312 让字符串成为回文串的最少插入次数](./Problems/1312/README.md)
+- [leetcode-1647 字符频次唯一的最小删除次数](./Problems/1647/README.md)
+- [leetcode-1541 平衡括号字符串的最少插入次数](./Problems/1541/README.md)
 
 
 ## :memo:题库
@@ -132,6 +136,7 @@
 |605|[link](https://leetcode.com/problems/can-place-flowers/)|Can Place Flowers|Easy| 贪心 |[link](./Problems/0605/README.md)|
 |695|[link](https://leetcode.com/problems/max-area-of-island/)|Max Area of Island|Medium|深度优先搜索|[link](./Problems/0695/README.md)|
 | 704 | [link](https://leetcode.com/problems/binary-search/) | Binary Search | Easy | 二分查找 | [link](./Problems/0704/README.md) |
+| 709 | [link](https://leetcode.com/problems/to-lower-case/) |  To Lower Case | Easy | 位运算 | [link](./Problems/0709/README.md) | 
 | 712 | [link](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium | 动态规划 | [link](./Problems/0712/README.md) |
 |725|[link](https://leetcode.com/problems/split-linked-list-in-parts/)|Split Linked List in Parts|Medium|链表|[link](./Problems/0725/README.md)
 |786|[link](https://leetcode.com/problems/k-th-smallest-prime-fraction/)|K-th Smallest Prime Fraction|Hard|二分查找|[link](./Problems/0786/README.md)|
