@@ -23,19 +23,19 @@ class Solution:
     def copyRandomList(self, head: 'Node') -> 'Node':
         if head == None: return None
         ori = head
-        while head: //第一步：赋值节点
+        while head: # 第一步：赋值节点
             temp = Node(head.val)
             temp.next = head.next
             head.next = temp
             head = temp.next
         cur = ori
-        while cur: //第二步：赋值random指针
+        while cur: # 第二步：赋值random指针
             if cur.random:
                 cur.next.random = cur.random.next
             cur = cur.next.next
         answer = ori.next
         new = ori.next
-        while new.next != None: //第三步：拆分出新建的节点
+        while new.next != None: # 第三步：拆分出新建的节点
             new.next = new.next.next
             new = new.next
         return answer
