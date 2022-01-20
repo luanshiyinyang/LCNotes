@@ -32,8 +32,8 @@
 - [leetcode-34 在排序数组中查找元素的第一个和最后一个位置]()
 - [leetcode-69 Sqrt(x)]()
 - [leetcode-81 搜索旋转排序数组 II]()
-- [leetcode-153 寻找旋转排序数组中的最小值]()
-- [leetcode-154 寻找旋转排序数组中的最小值 II]()
+- [leetcode-153 寻找旋转排序数组中的最小值](./Problems/0153/README.md)
+- [leetcode-154 寻找旋转排序数组中的最小值 II](./Problems/0154/README.md)
 - [leetcode-275 H 指数 II]()
 - [leetcode-287 寻找重复数]()
 - [leetcode-300 最长递增子序列]()
@@ -99,6 +99,8 @@
 | 100 | [link](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
 |121|[link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Best Time to Buy and Sell Stock|Easy|动态规划|[link](./Problems/0121/README.md)|
 | 141 | [link](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | 链表 | [link](./Problems/0141/README.md)|
+| 153 | [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Medium | 二分查找 | [link](./Problems/0153/README.md) |
+| 154 | [link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Find Minimum in Rotated Sorted Array II | Hard | 二分查找 | [link](./Problems/0154/README.md) |
 | 189 | [link](https://leetcode.com/problems/rotate-array/) | Rotate Array | Medium | 双指针 | [link](./Problems/0189/README.md) |
 | 191 | [link](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy | 位运算 | [link](./Problems/0191/README.md) | 
 |206|[link](https://leetcode.com/problems/reverse-linked-list/)|Reverse Linked List|Easy|链表|[link](./Problems/0206/README.md)|
