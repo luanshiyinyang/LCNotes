@@ -165,6 +165,7 @@
 |剑指Offer 04|[link](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)|二维数组中的查找|Medium|查找|[link](./Problems/lcof-004/README.md)|
 |剑指Offer 12|[link](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)|矩阵中的路径|Medium|回溯|[link](./Problems/lcof-012/README.md)|
 |剑指Offer 14|[link](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)|剪绳子|Medium|动态规划|[link](./Problems/lcof-014/README.md)|
+| 剑指Offer 16 | [link](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 数值的整数次方 | Medium | 快速幂 | [link](./Problems/lcof-016/README.md) |
 |剑指Offer 20|[link](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|表示数值的字符串|Medium|字符串|[link](./Problems/lcof-020/README.md)|
 | 剑指Offer 25 | [link](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 合并两个排序的链表 | Easy | 双指针 | [link](./Problems/lcof-025/README.md) |
 |剑指Offer 26|[link](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|树的子结构|Medium|二叉树|[link](./Problems/lcof-026/README.md)|
