@@ -174,6 +174,7 @@
 |剑指Offer 35|[link](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)|复杂链表的复制|Medium|链表|[link](./Problems/lcof-035/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|二叉树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 38|[link](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|字符串的排列|Medium|回溯|[link](./Problems/lcof-038/README.md)|
+|剑指Offer 39|[link](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)|数组中出现次数超过一半的数字|Easy|Moore算法|[link](./Problems/lcof-039/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|动态规划|[link](./Problems/lcof-042/README.md)|
 |剑指Offer 43|[link](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)|1～n 整数中 1 出现的次数|Hard|数学|[link](./Problems/lcof-043/README.md)|
 | 剑指Offer 57 | [link](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | 和为s的两个数字 | Easy | 双指针 | [link](./Problems/lcof-057/README.md) |
