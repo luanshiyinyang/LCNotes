@@ -171,6 +171,7 @@
 |剑指Offer 26|[link](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|树的子结构|Medium|二叉树|[link](./Problems/lcof-026/README.md)|
 |剑指Offer 27|[link](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)|二叉树的镜像|Easy|二叉树|[link](./Problems/lcof-027/README.md)|
 |剑指Offer 28|[link](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)|对称的二叉树|Easy|二叉树|[link](./Problems/lcof-028/README.md)|
+|剑指Offer 34|[link](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)|二叉树中和为某一值的路径|Medium|回溯法|[link](./Problems/lcof-034/README.md)|
 |剑指Offer 35|[link](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)|复杂链表的复制|Medium|链表|[link](./Problems/lcof-035/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|二叉树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 38|[link](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|字符串的排列|Medium|回溯|[link](./Problems/lcof-038/README.md)|
