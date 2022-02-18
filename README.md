@@ -171,11 +171,14 @@
 |剑指Offer 26|[link](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|树的子结构|Medium|二叉树|[link](./Problems/lcof-026/README.md)|
 |剑指Offer 27|[link](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)|二叉树的镜像|Easy|二叉树|[link](./Problems/lcof-027/README.md)|
 |剑指Offer 28|[link](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)|对称的二叉树|Easy|二叉树|[link](./Problems/lcof-028/README.md)|
+|剑指Offer 34|[link](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)|二叉树中和为某一值的路径|Medium|回溯法|[link](./Problems/lcof-034/README.md)|
 |剑指Offer 35|[link](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)|复杂链表的复制|Medium|链表|[link](./Problems/lcof-035/README.md)|
 |剑指Offer 36|[link](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|二叉搜索树与双向链表|Medium|二叉树|[link](./Problems/lcof-036/README.md)|
 |剑指Offer 38|[link](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|字符串的排列|Medium|回溯|[link](./Problems/lcof-038/README.md)|
+|剑指Offer 39|[link](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)|数组中出现次数超过一半的数字|Easy|Moore算法|[link](./Problems/lcof-039/README.md)|
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|动态规划|[link](./Problems/lcof-042/README.md)|
 |剑指Offer 43|[link](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)|1～n 整数中 1 出现的次数|Hard|数学|[link](./Problems/lcof-043/README.md)|
+| 剑指Offer 51 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |数组中的逆序对| Hard | 归并/树状数组 | [link](./Problems/lcof-051/README.md) |
 | 剑指Offer 57 | [link](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | 和为s的两个数字 | Easy | 双指针 | [link](./Problems/lcof-057/README.md) |
 | 剑指Offer 62 | [link](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 | Easy | 动态规划 | [link](./Problems/lcof-062/README.md) |
 |剑指Offer 69|[link](https://leetcode-cn.com/problems/B1IidL/)|山峰数组的顶部|Easy|分治法|[link](./Problems/lcof-069/README.md)|
