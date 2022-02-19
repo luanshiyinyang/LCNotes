@@ -179,6 +179,8 @@
 |剑指Offer 42|[link](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|连续子数组的最大和|Easy|动态规划|[link](./Problems/lcof-042/README.md)|
 |剑指Offer 43|[link](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/)|1～n 整数中 1 出现的次数|Hard|数学|[link](./Problems/lcof-043/README.md)|
 | 剑指Offer 51 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) |数组中的逆序对| Hard | 归并/树状数组 | [link](./Problems/lcof-051/README.md) |
+| 剑指Offer 56-1 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | 数组中数字出现的次数 | Medium | 位运算 | [link](./Problems/lcof-056/README.md) |
+| 剑指Offer 56-2 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | 数组中数字出现的次数 | Medium | 位运算 | [link](./Problems/lcof-056/README.md) |
 | 剑指Offer 57 | [link](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | 和为s的两个数字 | Easy | 双指针 | [link](./Problems/lcof-057/README.md) |
 | 剑指Offer 62 | [link](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 | Easy | 动态规划 | [link](./Problems/lcof-062/README.md) |
 |剑指Offer 69|[link](https://leetcode-cn.com/problems/B1IidL/)|山峰数组的顶部|Easy|分治法|[link](./Problems/lcof-069/README.md)|
