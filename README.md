@@ -188,6 +188,7 @@
 | 剑指Offer 56-1 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | 数组中数字出现的次数 | Medium | 位运算 | [link](./Problems/lcof-056/README.md) |
 | 剑指Offer 56-2 | [link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | 数组中数字出现的次数 | Medium | 位运算 | [link](./Problems/lcof-056/README.md) |
 | 剑指Offer 57 | [link](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | 和为s的两个数字 | Easy | 双指针 | [link](./Problems/lcof-057/README.md) |
+| 剑指Offer 59 | [link](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | 滑动窗口的最大值 | Medium | 单调队列 | [link](./Problems/lcof-059/README.md) |
 | 剑指Offer 62 | [link](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 | Easy | 动态规划 | [link](./Problems/lcof-062/README.md) |
 |剑指Offer 69|[link](https://leetcode-cn.com/problems/B1IidL/)|山峰数组的顶部|Easy|分治法|[link](./Problems/lcof-069/README.md)|
 
