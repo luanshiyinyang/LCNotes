@@ -191,6 +191,7 @@
 | 剑指Offer 59 | [link](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | 滑动窗口的最大值 | Medium | 单调队列 | [link](./Problems/lcof-059/README.md) |
 | 剑指Offer 62 | [link](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 | Easy | 动态规划 | [link](./Problems/lcof-062/README.md) |
 | 剑指Offer 63 | [link](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | 股票的最大利润 | Medium | 动态规划 | [link](./Problems/lcof-063/README.md) |
+| 剑指Offer 66 | [link](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 构建乘积数组 | Medium | 动态规划 | [link](./Problems/lcof-066/README.md) |
 |剑指Offer 69|[link](https://leetcode-cn.com/problems/B1IidL/)|山峰数组的顶部|Easy|分治法|[link](./Problems/lcof-069/README.md)|
 
 ### 额外题库
