@@ -194,6 +194,14 @@
 | 剑指Offer 66 | [link](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 构建乘积数组 | Medium | 动态规划 | [link](./Problems/lcof-066/README.md) |
 |剑指Offer 69|[link](https://leetcode-cn.com/problems/B1IidL/)|山峰数组的顶部|Easy|分治法|[link](./Problems/lcof-069/README.md)|
 
+### LeetCode 热题 HOT 100 系列
+
+下表则为LeetCode 热题 HOT 100 系列。
+
+|题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
+|:---:|:--:|:--|:--:|:--:|:--:|
+|0004|[link](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|寻找两个正序数组的中位数|Hard|二分查找|[link](./Problems/0004/README.md)|
+
 ### 额外题库
 
 以下为不属于上述题库的其他典型题，这部分有的题目来自面试原题，不提供原题链接。
