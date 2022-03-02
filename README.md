@@ -201,6 +201,7 @@
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
 |0004|[link](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|寻找两个正序数组的中位数|Hard|二分查找|[link](./Problems/0004/README.md)|
+|0005|[link](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|Medium|动态规划、Manacher算法|[link](./Problems/0005/README.md)|
 
 ### 额外题库
 
