@@ -13,6 +13,7 @@
 
 ### 单调栈
 
+- [leetcode-84 柱状图中最大的矩形](./Problems/0084/README.md)
 - [leetcode-316 去除重复字母](./Problems/0316/README.md)
 - [leetcode-321 拼接最大数](./Problems/0321/README.md)
 - [leetcode-402 移掉K位数字](./Problems/0402/README.md)
@@ -89,7 +90,7 @@
 |:---:|:--:|:--|:--:|:--:|:--:|
 |3|[link](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| 无重复字符的最长子串 |Medium|滑动窗口|[link](./Problems/0003/README.md)|
 |11|[link](https://leetcode-cn.com/problems/container-with-most-water/)| 盛最多水的容器 |Medium|双指针|[link](./Problems/0011/README.md)|
-|19|[link](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| 删除链表的倒数第 N 个结点 |双指针|[link](./Problems/0019/README.md)|
+|19|[link](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| 删除链表的倒数第 N 个结点  | Medium |双指针|[link](./Problems/0019/README.md)|
 |20|[link](https://leetcode-cn.com/problems/valid-parentheses/)| 有效的括号 |Easy|栈|[link](./Problems/0020/README.md)|
 |21|[link](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| 合并两个有序链表 |Easy|链表|[link](./Problems/0021/README.md)|
 |36|[link](https://leetcode-cn.com/problems/valid-sudoku/)| 有效的数独 |Medium|数组|[link](./Problems/0036/README.md)|
@@ -99,6 +100,7 @@
 | 72 | [link](https://leetcode-cn.com/problems/edit-distance/) |  编辑距离 | Hard | 动态规划 | [link](./Problems/0072/README.md) | 
 |73|[link](https://leetcode-cn.com/problems/set-matrix-zeroes/)| 矩阵置零 |Medium|数组|[link](./Problems/0073/README.md)|
 |74|[link](https://leetcode-cn.com/problems/search-a-2d-matrix/)| 搜索二维矩阵 |Medium|分治法|[link](./Problems/0074/README.md)|
+| 84 | [link](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 柱状图中最大的矩形 | Hard | 单调栈 | [link](./Problems/0084/README.md) | 
 | 100 | [link](https://leetcode-cn.com/problems/same-tree/) | 相同的树 | Easy | 对称性递归 | [link](./Problems/0100/README.md) |
 |121|[link](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)| 买卖股票的最佳时机 |Easy|动态规划|[link](./Problems/0121/README.md)|
 | 141 | [link](https://leetcode-cn.com/problems/linked-list-cycle/) | 环形链表 | Easy | 链表 | [link](./Problems/0141/README.md)|
