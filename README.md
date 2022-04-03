@@ -52,6 +52,12 @@
 - [leetcode-1482 制作 m 束花所需的最少天数]()
 - [leetcode-1552 两球之间的磁力]()
 
+### 图问题
+
+- [lintcode-783 最小危险值路径](./Problems/lintcode-0783/README.md)
+- [leetcode-743 网络延迟时间](./Problems/0743/README.md)
+- [leetcode-787 K 站中转内最便宜的航班](./Problems/0787/README.md)
+
 ### 位运算
 
 - [leetcode-709 转换成小写字母](./Problems/0709/README.md)
