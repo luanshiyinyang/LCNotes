@@ -85,6 +85,11 @@
 - [leetcode-1647 字符频次唯一的最小删除次数](./Problems/1647/README.md)
 - [leetcode-1541 平衡括号字符串的最少插入次数](./Problems/1541/README.md)
 
+### 并查集
+
+- [leetcode-684 冗余连接](./Problems/0684/README.md)
+- [leetcode-721  账户合并](./Problems/0721/README.md)
+
 
 ## :memo:题库
 
@@ -147,11 +152,14 @@
 |575|[link](https://leetcode-cn.com/problems/distribute-candies/)| 分糖果 |Easy|贪心|[link](./Problems/0575/README.md)|
 | 583 | [link](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 两个字符串的删除操作 | Medium | 动态规划 | [link](./Problems/0583/README.md) |
 |605|[link](https://leetcode-cn.com/problems/can-place-flowers/)| 种花问题 |Easy| 贪心 |[link](./Problems/0605/README.md)|
+| 684 | [link](https://leetcode-cn.com/problems/redundant-connection/) | 冗余连接 | Medium | 并查集 | [link](./Problems/0684/README.md) | 
+| 721 | [link](https://leetcode-cn.com/problems/accounts-merge/) | 账户合并 | Medium | 并查集 | [link](./Problems/0721/README.md) |
 |695|[link](https://leetcode-cn.com/problems/max-area-of-island/)| 岛屿的最大面积 |Medium|深度优先搜索|[link](./Problems/0695/README.md)|
 | 704 | [link](https://leetcode-cn.com/problems/binary-search/) | 二分查找 | Easy | 二分查找 | [link](./Problems/0704/README.md) |
 | 709 | [link](https://leetcode-cn.com/problems/to-lower-case/) |  转换成小写字母 | Easy | 位运算 | [link](./Problems/0709/README.md) | 
 | 712 | [link](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 两个字符串的最小ASCII删除和 | Medium | 动态规划 | [link](./Problems/0712/README.md) |
-|725|[link](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| 分隔链表 |Medium|链表|[link](./Problems/0725/README.md)
+|725|[link](https://leetcode-cn.com/problems/split-linked-list-in-parts/)| 分隔链表 |Medium|链表|[link](./Problems/0725/README.md)|
+| 743 | [link](https://leetcode-cn.com/problems/network-delay-time/) | 网络延迟时间 | Medium | 最短路径 | [link](./Problems/0743/README.md) | 
 |786|[link](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)| 第 K 个最小的素数分数|Hard|二分查找|[link](./Problems/0786/README.md)|
 |787|[link](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|  K 站中转内最便宜的航班 |Medium|动态规划|[link](./Problems/0787/README.md)|
 |876|[link](https://leetcode-cn.com/problems/middle-of-the-linked-list/)| 链表的中间结点 |Easy|双指针|[link](./Problems/0876/README.md)|
