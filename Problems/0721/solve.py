@@ -11,7 +11,6 @@ class UnionFind:
         return self.parent[index]
 
 
-
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
         email2id, email2name = {}, {}
