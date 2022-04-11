@@ -219,6 +219,7 @@
 |:---:|:--:|:--|:--:|:--:|:--:|
 |0004|[link](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|寻找两个正序数组的中位数|Hard|二分查找|[link](./Problems/0004/README.md)|
 |0005|[link](https://leetcode-cn.com/problems/longest-palindromic-substring/)|最长回文子串|Medium|动态规划、Manacher算法|[link](./Problems/0005/README.md)|
+|0437|[link](https://leetcode-cn.com/problems/path-sum-iii/)|路径总和（三）|Medium|前缀和|[link](./Problems/0437/README.md)|
 
 ### 额外题库
 
