@@ -164,6 +164,7 @@
 |787|[link](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|  K 站中转内最便宜的航班 |Medium|动态规划|[link](./Problems/0787/README.md)|
 |876|[link](https://leetcode-cn.com/problems/middle-of-the-linked-list/)| 链表的中间结点 |Easy|双指针|[link](./Problems/0876/README.md)|
 |879|[link](https://leetcode-cn.com/problems/profitable-schemes/)| 盈利计划 |Hard|01背包问题|[link](./Problems/0879/README.md)|
+| 934 | [link](https://leetcode-cn.com/problems/shortest-bridge/) | 最短的桥 | Medium | 图论 | [link](./Problems/0934/README.md) 
 |1218|[link](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | 最长定差子序列 |Medium|动态规划|[link](./Problems/1218/README.md)|
 | 1293 | [link](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | 网格中的最短路径 | Hard | 广度优先搜索 | [link](./Problems/1293/README.md) |
 | 1312 | [link](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | 让字符串成为回文串的最少插入次数 | Hard | 动态规划 | [link](./Problems/1312/README.md)|
