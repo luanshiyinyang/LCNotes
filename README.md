@@ -222,10 +222,11 @@
 
 ### 额外题库
 
-以下为不属于上述题库的其他典型题，这部分有的题目来自面试原题，不提供原题链接。
+以下为不属于上述题库的其他典型题，这部分有的题目来自笔试或者面试原题，不提供原题链接。
 
 |题目ID|原题链接|题目全名|题目难度|题目类型|题解(<mark>点击下方</mark>)|
 |:---:|:--:|:--|:--:|:--:|:--:|
 |Other 01|link|子数组分割最大得分|Hard|数组|[link](./Problems/other-001/README.md)|
 |Other 02| link | 不许ac | Easy | 编辑距离 | [link](./Problems/other-002/README.md)|
 |Other 03 | link | 最大K乘积 | Medium | 动态规划 | [link](./Problems/other-003/README.md)|
+|Other 04 | link | k的倍数的子序列 | Hard | 动态规划 | [link](./Problems/other-004/README.md) |
