@@ -135,3 +135,48 @@ class Solution:
                 if k != p:
                     dfs.append((k, v, cur_max_w))
 ```
+
+当然，我们也可以采用Kruskal算法来求解，它的步骤如下。
+
+1. 将边按权重从小到大进行排序；
+2. 将每个顶点独立视为根节点，产生n个树；
+3. 依次选取每条边，如果边的两个顶点不属于同一个树，则将其合并，如果属于同一个树（意味着会形成回路），则将其舍弃，考虑下一条边，最后形成(n-1)条边。
+
+我们可以使用并查集来实现这个过程，具体代码如下。
+
+```python
+class UnionFind():
+    def __init__(self, length):
+        self.parent = list(range(length))
+        self.rank = [1] * length
+
+    def find(self, x):
+        parent = self.parent
+        if parent[parent[x]] != parent[x]:
+            parent[x] = self.find(parent[x])
+        return parent[x]
+        
+    def union(self, x, y):
+        rank, parent = self.rank, self.parent
+        px, py = self.find(x), self.find(y)
+        if px == py:
+            return False
+        
+        if rank[px] > rank[py]:
+            parent[py] = px
+        elif rank[px] < rank[py]:
+            parent[px] = py
+        else:
+            parent[px] = py
+            rank[py] += 1
+        
+        return True
+
+class Solution:
+    def getMinRiskValue(self, N, M, X, Y, W):
+        uf = UnionFind(N+1)
+        edges = sorted(zip(W, X, Y))
+        for w, x, y in edges:
+            if uf.union(x, y) and uf.find(0) == uf.find(N):
+                return w
+```
